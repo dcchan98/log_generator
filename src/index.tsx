@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import '@arco-design/web-react/dist/css/arco.css';
+import './tailwind.css';
+
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
